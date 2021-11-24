@@ -13,11 +13,11 @@ a {
     font-weight:bold;
 }
 .navbar{
-    padding-left: 10px;
+    /* padding-left: 10px;
     display: flex;
     width: 100%;
     justify-content: space-between;
-    color: orange;
+    color: orange; */
     background-color: #2d3746;
     border-bottom: 5px solid #98d9d3;
 }

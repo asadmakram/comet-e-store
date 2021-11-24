@@ -5,6 +5,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from './pages/Home';
 import Products from './pages/Products';
 import AboutUs from './pages/aboutus';
+import 'bootstrap/dist/css/bootstrap.css';
 
 
 function App() {
